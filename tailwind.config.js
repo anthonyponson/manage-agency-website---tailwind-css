@@ -21,7 +21,11 @@ module.exports = {
         textgray:'#777',
         textblack:'#000',
         textwhite:'#fff'
+      },
+      spacing:{
+        'paddingLeft':'4.7rem'
       }
+
     }
   },
   plugins: [],
